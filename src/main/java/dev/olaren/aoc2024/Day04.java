@@ -22,7 +22,7 @@ public class Day04 {
         System.out.printf("[Day 4 part 1] The amount of XMAS is: %s\n", part1Result);
 
         int part2Result = part2(letters);
-        System.out.printf("[Day 4 part 2] The amount of XMAS is: %s\n", part2Result);
+        System.out.printf("[Day 4 part 2] The amount of X-MAS is: %s\n", part2Result);
     }
 
     private static int part1(int[][] letters) {
